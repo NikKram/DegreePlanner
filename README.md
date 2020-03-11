@@ -1,5 +1,5 @@
 # DegreePlanner
-Authors: Nikita Kramar, Chris Hansen, Brian Clow, Benjamin Clark, and Rohit Gangurde
+Authors: Nikita Kramar, Chris Haney, Brian Clow, Benjamin Clark, and Rohit Gangurde
 
 
 This project is using [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
